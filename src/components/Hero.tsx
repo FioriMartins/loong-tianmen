@@ -22,7 +22,7 @@ const Hero: React.FC = () => {
   };
 
   return (
-    <section className="hero-section">
+    <section className="hero-section" id="home">
       <div className="section-bg section-bg-1"></div>
 
       <div className="container mx-auto px-4 section-content">
