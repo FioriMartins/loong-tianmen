@@ -363,6 +363,7 @@ p {
 
 /* Melhorias de navegação */
 header {
+  z-index: 9999;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   background-color: rgba(5, 16, 31, 0.8);
